@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm George</h1>
+<h1 align="center">Hi 👋🏻, I'm George</h1>
 <h3 align="center">A passionate cs student from Bucharest, Romania</h3>
 
 - 🌱 I’m currently learning **.NET**
